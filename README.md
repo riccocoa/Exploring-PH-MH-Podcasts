@@ -1,3 +1,5 @@
+### Exploring Philippine Mental Health Podcasts: The Efficacy of Latent Dirichlet Allocation (LDA) and BERTopic for Topic Modeling in Optimizing English-Filipino ASR-Derived Speech Content Analysis  
+
 This repository contains the resources and source code for our thesis titled "Exploring Philippine Mental Health Podcasts: The Efficacy of Latent Dirichlet Allocation (LDA) and BERTopic for Topic Modeling in Optimizing English-Filipino ASR-Derived Speech Content Analysis.
 
 **Contents**
